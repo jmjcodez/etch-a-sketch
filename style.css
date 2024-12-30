@@ -1,0 +1,16 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+#grid{
+	display: flex;
+}
+
+.square {
+	background-color: #2ecc71;
+	width: 35px;
+	height: 35px;
+	border: 2px solid black;
+}
